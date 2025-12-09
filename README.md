@@ -151,6 +151,8 @@ Processing 공식 홈페이지 → 다운로드 & 설치
 
 ### 회로 구성도
 ![IMG_5001](https://github.com/user-attachments/assets/e9779995-5829-4e92-9ede-b210fb79b172)
+![Uploading IMG_4999.jpeg…]()
+
 
 ---
 
