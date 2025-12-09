@@ -3,8 +3,6 @@
 **Arduino**와 **Processing**을 연동하여 식물의 생장 환경(습도, 온도, 조도)을 실시간으로 모니터링하고 시각화하는 프로젝트입니다.
 
 <img width="3456" height="2146" alt="Screenshot 2025-12-09 at 9 28 49 PM" src="https://github.com/user-attachments/assets/713ae45f-b3ae-4d14-92fe-20f652e15390" />
-![IMG_5001](https://github.com/user-attachments/assets/e9779995-5829-4e92-9ede-b210fb79b172)
-![IMG_4999](https://github.com/user-attachments/assets/92f46035-da91-4a35-9a87-98724a8e5b54)
 
 ---
 
